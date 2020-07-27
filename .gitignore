@@ -58,3 +58,21 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+### --- Libraries and Assets --- ###
+# MMd4Mecanim
+MMD4Mecanim_Beta_20200105.zip
+Assets/MMD4Mecanim/*
+Assets/MMD4Mecanim.meta
+
+# キズナアイ
+KizunaAI_ver1.01.zip
+Assets/KizunaAI_ver1.01
+Assets/KizunaAI_ver1.01.meta
+
+# Oculus Integration
+Assets/Oculus
+Assets/Oculus.meta
+
+# Final IK
+Assets/Plugins/RootMotion/*
+Assets/Plugins/RootMotion.meta
